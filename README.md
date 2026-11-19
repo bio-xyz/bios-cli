@@ -5,7 +5,7 @@ This public repository distributes verified BIOS CLI release archives. The CLI s
 ## Install
 
 ```sh
-curl -fsSL https://ai.bio.xyz/install | sh
+curl -fsSL https://biosdiscovery.ai/install | sh
 ```
 
 Supported packages: Linux x64, Linux ARM64, and Apple-silicon macOS. Intel macOS is not currently published.
